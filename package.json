@@ -1,0 +1,24 @@
+{
+  "name": "qawolf-example",
+  "version": "1.0.0",
+  "description": "Simple ToDo app with qawolf",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "^16.9.5",
+    "parcel-bundler": "^1.12.4",
+    "qawolf": "^0.8.1",
+    "typescript": "^3.7.5"
+  }
+}

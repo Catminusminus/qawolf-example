@@ -1,0 +1,149 @@
+[
+ {
+  "index": 0,
+  "html": {
+   "ancestors": [],
+   "node": "<body/>"
+  }
+ },
+ {
+  "index": 1,
+  "html": {
+   "ancestors": [
+    "<form></form>",
+    "<div id=\"root\"></div>"
+   ],
+   "node": "<input type=\"text\" name=\"todo\" value=\"\"/>"
+  }
+ },
+ {
+  "index": 2,
+  "html": {
+   "ancestors": [
+    "<form></form>",
+    "<div id=\"root\"></div>"
+   ],
+   "node": "<input type=\"text\" name=\"todo\" value=\"\"/>"
+  }
+ },
+ {
+  "index": 3,
+  "html": {
+   "ancestors": [
+    "<form></form>",
+    "<div id=\"root\"></div>"
+   ],
+   "node": "<button type=\"submit\" innertext=\"Add Todo\">Add Todo</button>"
+  }
+ },
+ {
+  "index": 4,
+  "html": {
+   "ancestors": [
+    "<form></form>",
+    "<div id=\"root\"></div>"
+   ],
+   "node": "<input type=\"text\" name=\"todo\" value=\"\"/>"
+  }
+ },
+ {
+  "index": 5,
+  "html": {
+   "ancestors": [
+    "<form></form>",
+    "<div id=\"root\"></div>"
+   ],
+   "node": "<input type=\"text\" name=\"todo\" value=\"\"/>"
+  }
+ },
+ {
+  "index": 6,
+  "html": {
+   "ancestors": [
+    "<form></form>",
+    "<div id=\"root\"></div>"
+   ],
+   "node": "<button type=\"submit\" innertext=\"Add Todo\">Add Todo</button>"
+  }
+ },
+ {
+  "index": 7,
+  "html": {
+   "ancestors": [
+    "<div id=\"root\"></div>",
+    "<body/>"
+   ],
+   "node": "<button innertext=\"Active\" style=\"margin-left: 4px;\">Active</button>"
+  }
+ },
+ {
+  "index": 8,
+  "html": {
+   "ancestors": [
+    "<div id=\"root\"></div>",
+    "<body/>"
+   ],
+   "node": "<button innertext=\"Completed\" style=\"margin-left: 4px;\">Completed</button>"
+  }
+ },
+ {
+  "index": 9,
+  "html": {
+   "ancestors": [
+    "<div id=\"root\"></div>",
+    "<body/>"
+   ],
+   "node": "<button innertext=\"All\" style=\"margin-left: 4px;\">All</button>"
+  }
+ },
+ {
+  "index": 10,
+  "html": {
+   "ancestors": [
+    "<ul></ul>",
+    "<div id=\"root\"></div>"
+   ],
+   "node": "<li innertext=\"hello\" style=\"text-decoration: none;\">hello</li>"
+  }
+ },
+ {
+  "index": 11,
+  "html": {
+   "ancestors": [
+    "<body/>",
+    "<html/>"
+   ],
+   "node": "<div id=\"root\" innertext=\"Add Todo hello hi Show: AllActiveCompleted\"><form><input type=\"text\" name=\"todo\" value=\"\"/><button type=\"submit\">Add Todo</button></form><ul><li style=\"text-decoration: line-through;\">hello</li><li style=\"text-decoration: none;\">hi</li></ul><span>Show: </span><button style=\"margin-left: 4px;\" disabled=\"\">All</button><button style=\"margin-left: 4px;\">Active</button><button style=\"margin-left: 4px;\">Completed</button></div>"
+  }
+ },
+ {
+  "index": 12,
+  "html": {
+   "ancestors": [
+    "<div id=\"root\"></div>",
+    "<body/>"
+   ],
+   "node": "<button style=\"margin-left: 4px;\" innertext=\"Active\">Active</button>"
+  }
+ },
+ {
+  "index": 13,
+  "html": {
+   "ancestors": [
+    "<div id=\"root\"></div>",
+    "<body/>"
+   ],
+   "node": "<button style=\"margin-left: 4px;\" innertext=\"Completed\">Completed</button>"
+  }
+ },
+ {
+  "index": 14,
+  "html": {
+   "ancestors": [
+    "<div id=\"root\"></div>",
+    "<body/>"
+   ],
+   "node": "<button style=\"margin-left: 4px;\" innertext=\"All\">All</button>"
+  }
+ }
+]
